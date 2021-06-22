@@ -9,6 +9,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
-  }
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSumis/10-hw-note-taker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JSumis/10-hw-note-taker/issues"
+  },
+  "homepage": "https://github.com/JSumis/10-hw-note-taker#readme"
 }
